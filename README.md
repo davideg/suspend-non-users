@@ -15,7 +15,7 @@ This script relies on:
 - [github3](http://github3py.readthedocs.org/)
 
 #### Usage
-[Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for a GitHub Enterprise Admin user and set $GHE_ACCESS_TOKEN to this token:
+[Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for a GitHub Enterprise Admin user and set `$GHE_ACCESS_TOKEN` to this token:
 
 ````
 export GHE_ACCESS_TOKEN=<token>
